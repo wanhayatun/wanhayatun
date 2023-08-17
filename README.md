@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **Wan Hayatun Nisa**.\
+🔭 I’m a Computer Engineering Student at Syiah Kuala University \
+🌱 I’m currently learning Machine Learning as a Bangkit Academy Cohort \
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wan-hayatun-nisa/)
+
 <!--
 **wanhayatun/wanhayatun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
